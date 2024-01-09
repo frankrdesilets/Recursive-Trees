@@ -4,5 +4,6 @@ Please see below for details.
 •	Built GUI using Eclipse IDE and Swing that enables user to configure and generate a tree, with the settings on the left and currently generated tree displayed on the right
 •	Used object-oriented design to create a class hierarchy and different panels of the GUI
 •	Utilized Swing objects to develop sections and settings on GUI, some of which include JFrame, JPanel, and JButton
+• Used recursive method in the class Tree to draw "branch" segments at progressing coordinates and angles to draw the "tree"
 •	Added a custom feature not in the project instructions that enables the user to “grow” a tree based on the current setting configuration, using a Timer object 
   to generate a tree in increasing stages of “growth”
