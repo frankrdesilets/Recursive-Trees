@@ -5,5 +5,4 @@ Please see below for details.
 •	Used object-oriented design to create a class hierarchy and different panels of the GUI
 •	Utilized Swing objects to develop sections and settings on GUI, some of which include JFrame, JPanel, and JButton
 • Used recursive method in the class Tree to draw "branch" segments at progressing coordinates and angles to draw the "tree"
-•	Added a custom feature not in the project instructions that enables the user to “grow” a tree based on the current setting configuration, using a Timer object 
-  to generate a tree in increasing stages of “growth”
+•	Added a custom feature not in the project instructions that enables the user to “grow” a tree based on the current setting configuration, using a Timer object to generate a tree in increasing stages of “growth”
